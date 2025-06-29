@@ -1,0 +1,1 @@
+/Users/karl-eliseekoffi/Desktop/Projects/HexagoneTPNoteRustB3/target/debug/bibliotheque_rust: /Users/karl-eliseekoffi/Desktop/Projects/HexagoneTPNoteRustB3/src/bibliotheque.rs /Users/karl-eliseekoffi/Desktop/Projects/HexagoneTPNoteRustB3/src/livre.rs /Users/karl-eliseekoffi/Desktop/Projects/HexagoneTPNoteRustB3/src/main.rs
